@@ -21,6 +21,7 @@ h1 {
     font-size: 40px;
     font-weight: 700;
     line-height: normal;
+    text-align: center;
 }
 
 h2 {
@@ -43,4 +44,8 @@ button {
     border-radius: 50px;
     background-color: #6888BE;
     color: #f3fafd;
+}
+
+.body_modified {
+    background-color: #CCDBEE;
 }
