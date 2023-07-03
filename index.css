@@ -1,0 +1,46 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background: #99AFD7;
+}
+
+.container {
+    margin: 0 auto;
+    width: 600px;
+}
+
+.inner {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 100px;
+}
+
+h1 {
+    margin-bottom: 80px;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: normal;
+}
+
+h2 {
+    margin-bottom: 80px;
+    font-size: 40px;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+}
+
+button {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    line-height: normal;
+    border: none;
+    width: 500px;
+    height: 60px;
+    cursor: pointer;
+    border-radius: 50px;
+    background-color: #6888BE;
+    color: #f3fafd;
+}
